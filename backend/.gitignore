@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables file (Sensitive data like API keys, secrets)
+.env
+
+# Build output (dist, build, etc.)
+dist/
+build/
+
+# Temporary files or system files
+*.tmp
+*.bak
+*.swp
+
+# Database files (e.g., SQLite)
+*.sqlite
+
+# Windows-specific system files
+Thumbs.db
+ehthumbs.db
+
+# macOS-specific system files (if cross-platform)
+.DS_Store
+
+# JetBrains IDEs (IntelliJ, WebStorm, etc.) 
+.idea/
+
+# VS Code specific files
+.vscode/
+
+# Windows installer files
+*.cab
+*.msi
+*.exe
